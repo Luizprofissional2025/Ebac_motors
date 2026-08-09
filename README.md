@@ -6,7 +6,7 @@ O projeto utiliza **HTML, CSS e JavaScript/jQuery**, com foco na criação de um
 
 ## 📸 Preview
 
-![EBAC Motors](./src/pages/assets/preview.png)
+![EBAC Motors](./images/preview.png)
 
 ---
 
