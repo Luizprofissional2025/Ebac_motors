@@ -4,7 +4,9 @@ Landing page desenvolvida durante minha jornada de aprendizado em **Desenvolvime
 
 O projeto utiliza **HTML, CSS e JavaScript/jQuery**, com foco na criação de uma interface responsiva, organizada e interativa.
 
+## 📸 Preview
 
+![EBAC Motors](./src/pages/assets/preview.png)
 
 ---
 
