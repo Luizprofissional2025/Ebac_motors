@@ -145,10 +145,4 @@ https://github.com/Luizprofissional2025/Ebac_motors
 
 O desenvolvimento deste projeto permitiu colocar em prática conhecimentos de **Desenvolvimento Web e Front-end**, principalmente na criação de interfaces responsivas, manipulação do DOM, utilização de bibliotecas JavaScript e desenvolvimento de interações para melhorar a experiência do usuário.
 
----
 
-## 🚧 Status do projeto
-
-**Em desenvolvimento**
-
-Este projeto continua em evolução como parte da minha jornada de aprendizado em **Desenvolvimento Web / Front-end**, com novas melhorias e funcionalidades previstas para as próximas etapas.
